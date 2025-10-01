@@ -1,0 +1,4 @@
+The AlphaFold paper’s most important references highlight its synthesis of foundational biological data, established bioinformatics principles, and machine learning techniques. The work relies on the Protein Data Bank (PDB) for the experimental protein structures used in training alphafold, and public sequence databases for building the multiple sequence alignments (MSAs) that are input into the program. AlphaFolds unprecedented accuracy is validated against the Critical Assessment of Protein Structure Prediction (CASP14), which is described as the “gold-standard assessment”. The paper's novelty stems from integrating evolutionary information with recent machine learning techniques to improve accuracy by learning from hundreds of thousands of protein sequences.
+
+(Valeria)
+
