@@ -1,3 +1,30 @@
+
+# CSV backups/parts
+# Jupyter checkpoints
+# Miniconda installers
+# PDF plots
+# XML fingerprint files
+# ZIP files
+*.csv.1
+*.csv.2
+*.csv.3
+*.csv.4
+*.csv.5
+.DS_Store
+.ipynb_checkpoints/
+AtomPairs2DFingerprintCount.xml
+AtomPairs2DFingerprinter.xml
+EStateFingerprinter.xml
+ExtendedFingerprinter.xml
+Fingerprinter.xml
+GraphOnlyFingerprinter.xml
+KlekotaRothFingerprintCount.xml
+KlekotaRothFingerprinter.xml
+MACCSFingerprinter.xml
+Miniconda3-py37_4.8.2-Linux-x86_64.sh*
+PubchemFingerprinter.xml
+SubstructureFingerprintCount.xml
+SubstructureFingerprinter.xml
 acetylcholinesterase_01_bioactivity_data_raw.csv
 acetylcholinesterase_02_bioactivity_data_preprocessed.csv
 acetylcholinesterase_03_bioactivity_data_curated.csv
@@ -5,5 +32,7 @@ acetylcholinesterase_04_bioactivity_data_3class_pIC50.csv
 acetylcholinesterase_05_bioactivity_data_2class_pIC50.csv
 acetylcholinesterase_06_bioactivity_data_3class_pIC50_pubchem_fp.csv
 acetylcholinesterase_07_bioactivity_data_2class_pIC50_pubchem_fp.csv
-.DS_Store
 bioinformatics_freecodecamp/ignore_me/
+fingerprints_xml.zip
+plot_*.pdf
+results.zip
